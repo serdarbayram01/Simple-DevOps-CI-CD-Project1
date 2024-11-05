@@ -9,7 +9,7 @@
 - Analiz sonrası kodumuzu “Dockerfile” dosyası ile bir imaja dönüştürüp hostumuz üzerinde docker imajımızı çalıştırarak uygulamamızın publish işlemini gerçekleştireceğiz.
 
 ## Blog Link
-[MIT](https://www.serdarbayram.net/simple-devops-ci-cd-project-1.html)
+[serdarbayram.net](https://www.serdarbayram.net/simple-devops-ci-cd-project-1.html)
 
   # Çalışma Finali
   çalışma sonucu çıktığımız aşağıdaki gibi bir web sayfasını görüntüleyeceğiz.
