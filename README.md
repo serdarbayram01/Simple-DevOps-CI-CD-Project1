@@ -1,7 +1,6 @@
 # Simple-DevOps-CI-CD-Project1
-Simple DevOps CI/CD Project 1
-
-<img src="https://github.com/serdarby/Simple-DevOps-CI-CD-Project1/devops_simple CICD.svg" alt="Topology"">
+##Simple DevOps CI/CD Project 1
+![devops_simple CICD](https://github.com/user-attachments/assets/01f7d74c-1c2f-4be0-a501-fd0f8d6567ad)
 
 Ubunut 22.04 serverımız üzerine Jenkins CICD aracımızı kuracağız.
 Docker Kurulumu yapacağız.
